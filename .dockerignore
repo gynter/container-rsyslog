@@ -1,0 +1,8 @@
+#
+# Docker RSyslog (https://github.com/gynter/docker-rsyslog-alpine)
+#
+# See https://github.com/gynter/rsyslog-docker-compose-example for deployment example using Docker Compose.
+#
+
+LICENSE
+README.markdown
